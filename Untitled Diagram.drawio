@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T09:59:46.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="XSWo7gmSGGkEMd5a_0Ox" version="17.1.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-03-22T11:49:38.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="yc0N5MEHc2O0RbjIo1qh" version="17.1.3" type="github" pages="16">
   <diagram id="JNo0bp9esqoCAqDuxJAA" name="sửa nv">
     <mxGraphModel dx="2232" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
         </mxCell>
         <mxCell id="HTWZD8EAkuitHj-szmcN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="J6vO4nkMCVUFD79CEa15-1" source="HTWZD8EAkuitHj-szmcN-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="395" as="targetPoint" />
+            <mxPoint x="560" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTWZD8EAkuitHj-szmcN-16" value="Hiển thị các lựa chọn : theo ngày, theo tuần , ....." style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="J6vO4nkMCVUFD79CEa15-1">
