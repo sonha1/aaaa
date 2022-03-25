@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T10:10:34.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="Gn9vKN40i9Z7GIbtM1-6" version="17.2.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-03-25T11:45:06.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="RMkzmcLFh8KwD-vnuW9P" version="17.2.2" type="github" pages="20">
   <diagram id="JNo0bp9esqoCAqDuxJAA" name="sửa nv">
-    <mxGraphModel dx="2236" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2517" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="W06PMzmn9_xyqBlEsDqn-0" />
         <mxCell id="W06PMzmn9_xyqBlEsDqn-1" parent="W06PMzmn9_xyqBlEsDqn-0" />
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dyka6YksuQ9QH_3tLeXM" name="thêm nv">
-    <mxGraphModel dx="2236" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2266" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NS_ve5UctkIMLLHjbCTo-0" />
         <mxCell id="NS_ve5UctkIMLLHjbCTo-1" parent="NS_ve5UctkIMLLHjbCTo-0" />
@@ -231,7 +231,7 @@
         <mxCell id="pTbeNVEj2c2IwMLtAhrk-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="NS_ve5UctkIMLLHjbCTo-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="756" as="sourcePoint" />
-            <mxPoint x="450" y="36" as="targetPoint" />
+            <mxPoint x="450" y="10" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="36" />
             </Array>
@@ -419,7 +419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NVO4sbjgUyKsAJxpIory" name="Xóa nhân viên">
-    <mxGraphModel dx="1204" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GhNMfP1RjbaAWuIOMmmd-0" />
         <mxCell id="GhNMfP1RjbaAWuIOMmmd-1" parent="GhNMfP1RjbaAWuIOMmmd-0" />
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bpkLL-7tzCR5hW3r0bSO" name="đăng nhập">
-    <mxGraphModel dx="1386" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="J6vO4nkMCVUFD79CEa15-0" />
         <mxCell id="J6vO4nkMCVUFD79CEa15-1" parent="J6vO4nkMCVUFD79CEa15-0" />
@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5bEuYKEYhsxlAH716V_Z" name="đăng xuất ">
-    <mxGraphModel dx="2236" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="fToa_iSaMemkVcBWETS0-0" />
         <mxCell id="fToa_iSaMemkVcBWETS0-1" parent="fToa_iSaMemkVcBWETS0-0" />
@@ -846,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uDp_FUBGgstVpxB9-JgW" name="tạo thẻ khách hàng thân thiết ">
-    <mxGraphModel dx="1204" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tXWqlVPgMRWqNdBh2OYP-0" />
         <mxCell id="tXWqlVPgMRWqNdBh2OYP-1" parent="tXWqlVPgMRWqNdBh2OYP-0" />
@@ -856,7 +856,7 @@
         <mxCell id="5K-KEWqCGoSiMQPR8Q32-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="tXWqlVPgMRWqNdBh2OYP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="670" as="sourcePoint" />
-            <mxPoint x="500" y="56" as="targetPoint" />
+            <mxPoint x="500" y="20" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="56" />
             </Array>
@@ -1027,7 +1027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K87b7T-3FnOHSHbCkTsc" name="Xóa khách hàng thân thiết ">
-    <mxGraphModel dx="1416" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dKu-HlX5lQfm8aKlKXqs-0" />
         <mxCell id="dKu-HlX5lQfm8aKlKXqs-1" parent="dKu-HlX5lQfm8aKlKXqs-0" />
@@ -1036,8 +1036,8 @@
         </mxCell>
         <mxCell id="7z8rlfhaXu7ofP5gRpTk-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="dKu-HlX5lQfm8aKlKXqs-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="887" as="sourcePoint" />
-            <mxPoint x="780" y="103" as="targetPoint" />
+            <mxPoint x="780" y="971.142839704241" as="sourcePoint" />
+            <mxPoint x="780" y="50" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="103" />
             </Array>
@@ -1306,7 +1306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DNMALrgNKVssEonGEw9M" name="LẬP HÓA ĐƠN">
-    <mxGraphModel dx="1720" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="u-vl_m06PBRk8sDBQHRU-0" />
         <mxCell id="u-vl_m06PBRk8sDBQHRU-1" parent="u-vl_m06PBRk8sDBQHRU-0" />
@@ -1315,8 +1315,8 @@
         </mxCell>
         <mxCell id="_6XOaPuCyCUHhNNgM6QD-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="u-vl_m06PBRk8sDBQHRU-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="864" as="sourcePoint" />
-            <mxPoint x="660" y="80" as="targetPoint" />
+            <mxPoint x="660" y="980" as="sourcePoint" />
+            <mxPoint x="660" y="20" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="80" />
             </Array>
@@ -2161,7 +2161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GfoweuGpojnExeTKYgvU" name="aa Tao phieu nhap ">
-    <mxGraphModel dx="2481" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2850" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3101,7 +3101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X-cU7dWL0KAbiKjkuYMm" name="xem phiếu đã tạo">
-    <mxGraphModel dx="1386" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3261,7 +3261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7fe29RObxOlEVBqrvkXc" name="Sửa phiếu">
-    <mxGraphModel dx="2059" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2517" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3560,7 +3560,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="McXO4pMyyPzP-Gu89j9z" name="Xóa phiếu">
-    <mxGraphModel dx="1878" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3573,7 +3573,7 @@
         <mxCell id="3uhXPvVBQBg4fsNNbKPi-3" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="894" as="sourcePoint" />
-            <mxPoint x="450" y="70" as="targetPoint" />
+            <mxPoint x="450" y="10" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="70" />
             </Array>
@@ -3802,7 +3802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OS0LYKj5KDTIcVktfFkt" name="xem hàng hóa ">
-    <mxGraphModel dx="2830" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2517" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4070,7 +4070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bYazjnNAuXDMK1GAw_dB" name="Thống kê doanh thu">
-    <mxGraphModel dx="2481" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
