@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T10:10:23.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="w3wfiYiCjpk2izxCbIB3" version="17.2.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-03-25T10:10:34.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.42" etag="Gn9vKN40i9Z7GIbtM1-6" version="17.2.2" type="github" pages="20">
   <diagram id="JNo0bp9esqoCAqDuxJAA" name="sửa nv">
     <mxGraphModel dx="2236" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1699,7 +1699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SnRHfqyDXcewaoEclxHw" name="đổi mật khẩu tk ">
-    <mxGraphModel dx="1386" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1954,7 +1954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KwaO9eLxgsdS8PypFwIn" name="tạo tài khoản nhân viên">
-    <mxGraphModel dx="1386" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
